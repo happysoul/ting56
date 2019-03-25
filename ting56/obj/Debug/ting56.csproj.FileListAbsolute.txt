@@ -1,0 +1,9 @@
+D:\Document\SharpDevelop Projects\ting56\ting56\bin\Debug\ting56.exe.config
+D:\Document\SharpDevelop Projects\ting56\ting56\bin\Debug\ting56.exe
+D:\Document\SharpDevelop Projects\ting56\ting56\bin\Debug\ting56.pdb
+D:\Document\SharpDevelop Projects\ting56\ting56\bin\Debug\NSoup.dll
+D:\Document\SharpDevelop Projects\ting56\ting56\obj\Debug\ting56.csprojResolveAssemblyReference.cache
+D:\Document\SharpDevelop Projects\ting56\ting56\obj\Debug\ting56.MainForm.resources
+D:\Document\SharpDevelop Projects\ting56\ting56\obj\Debug\ting56.csproj.GenerateResource.Cache
+D:\Document\SharpDevelop Projects\ting56\ting56\obj\Debug\ting56.exe
+D:\Document\SharpDevelop Projects\ting56\ting56\obj\Debug\ting56.pdb
